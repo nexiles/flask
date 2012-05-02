@@ -24,3 +24,4 @@ For hosted options to get up and running quickly, see
    uwsgi
    fastcgi
    cgi
+   jython-modjy
